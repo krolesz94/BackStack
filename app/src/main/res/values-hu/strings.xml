@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Első_activity">Első Activity</string>
+    <string name="Következő_activity">Következő Activity</string>
+    <string name="mentés">Mentés</string>
+    <string name="kilépés">Kilépés</string>
+    <string name="Információ">Információ</string>
+    <string name="vissza_a_jövőbe">Vissza a jövőbe</string>
+    <string name="harmadik_activity">Harmadik Activity</string>
+    <string name="Második_activity">Második Activity</string>
+    <string name="Mentés">Mentés</string>
+    <string name="Írd_be_a_neved">Írd be a neved</string>
+</resources>

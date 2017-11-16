@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">20171109_backStack</string>
+    <string name="Első_activity">First Activity</string>
+    <string name="Következő_activity">Next Activity</string>
+    <string name="mentés">Save</string>
+    <string name="kilépés">Exit</string>
+    <string name="Információ">Information</string>
+    <string name="vissza_a_jövőbe">Back to the future</string>
+    <string name="harmadik_activity">Third Activity</string>
+    <string name="Második_activity">Second Activity</string>
+    <string name="Mentés">Save</string>
+    <string name="Írd_be_a_neved">Type your name</string>
+</resources>
